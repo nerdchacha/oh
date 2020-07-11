@@ -1,0 +1,8 @@
+header.oh-header {
+  background-image:
+    linear-gradient(to top right, red, #f06d06);
+    padding: 15px 10px;
+    color: white;
+    font-size: 28px;
+    font-weight: 700;
+}
